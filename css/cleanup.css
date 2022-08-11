@@ -1,1 +1,61 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+
+.tag-1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+#tag-2{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+#tag-3{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+#tag-3{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+#tag-4{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+#tag-5{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+#tag-6{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
+#tag_7{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+}
